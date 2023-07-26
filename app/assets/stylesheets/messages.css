@@ -95,26 +95,26 @@
   margin: 10px 0 0 0;
 }
 
-.upper_message{
+.upper-message{
   display: flex;
 }
 
-.message_user{
+.message-user{
   color: #434a54;
   font-size: 16px;
 }
 
-.message_date{
+.message-date{
   color: #999;
   font-size: 12px;
   padding-left: 10px;
 }
 
-.lower_message{
+.lower-message{
   margin-top: 10px;
 }
 
-.message_content{
+.message-content{
   color: #434a54;
   font-size: 14px;
   margin-bottom: 40px;
